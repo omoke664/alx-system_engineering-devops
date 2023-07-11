@@ -1,1 +1,0 @@
-My SHELL directions readme

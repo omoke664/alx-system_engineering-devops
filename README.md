@@ -1,1 +1,1 @@
-Welcome to my third ALX repo
+Welcome to my shell varibles directory
